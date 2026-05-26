@@ -7,3 +7,4 @@ spring:
     username: ${TIDB_USERNAME:root}
     password: ${TIDB_PASSWORD:password}
     driver-class-name: com.mysql.cj.jdbc.Driver
+# 깃허브 액션의 비밀 변수
